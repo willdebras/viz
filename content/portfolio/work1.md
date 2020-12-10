@@ -11,7 +11,7 @@ From Empire to Garden is an exploration of state-to-state migration in the Unite
 
 
 
-![](/img/portfolio/empire.png)
+![](img/portfolio/empire.png)
 
 It serves to speak lightly about the political implications of such shifts in the coming years due to levels of outmigration and inmigration from specific states. 
 
