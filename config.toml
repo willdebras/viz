@@ -1,4 +1,4 @@
-baseurl = "https://willdebras.github.io/portfolio/"
+baseurl = "https://willdebras.github.io/viz/"
 title = "Will Bonnell"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "docs"
