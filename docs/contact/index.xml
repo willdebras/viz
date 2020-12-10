@@ -2,10 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get in touch on Will Bonnell</title>
-    <link>willdebras.github.io/portfolio/contact/</link>
+    <link>https://willdebras.github.io/portfolio/contact/</link>
     <description>Recent content in Get in touch on Will Bonnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="willdebras.github.io/portfolio/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    
+	<atom:link href="https://willdebras.github.io/portfolio/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

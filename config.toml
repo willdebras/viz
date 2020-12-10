@@ -1,6 +1,7 @@
-baseurl = "willdebras.github.io/portfolio/"
+baseurl = "https://willdebras.github.io/portfolio/"
 title = "Will Bonnell"
 theme = "hugo-creative-portfolio-theme"
+publishDir = "docs"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
