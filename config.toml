@@ -43,6 +43,10 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Main page"
+  url = "https://willdebras.github.io/"
+  home = false
+  [[params.navlinks]]
+  name = "Viz"
   url = "portfolio/"
   home = true
 
