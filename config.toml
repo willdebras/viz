@@ -49,7 +49,7 @@ googleAnalytics = ""
 
 
   [params.social]
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  github        = "full profile url in github"
+  email         = "wbonnell123@gmail.com"
+  twitter       = "https://twitter.com/_willdebras"
+  linkedin      = "https://www.linkedin.com/in/william-bonnell-85982b3a/"
+  github        = "github.com/willdebras"

@@ -10,7 +10,7 @@ weight: 5
 A hackathon created dashboard to display traffic fatalities for the City of Chicago
 <!--more-->
 
-[![Vision Zero dashboard](/img/portfolio/visionzero.png)](/img/portfolio/vision_zero.mp4)
+[![Vision Zero dashboard](https://willdebras.github.io/portfolio/img/portfolio/visionzero.png)](https://willdebras.github.io/portfolio/img/portfolio/vision_zero.mp4)
 
 While this dashboard is still a work in progress and is not currently live, the hackathon made tremendous progress in developing a tool to exhibit the importance of policy to reduce traffic fatalities in Chicago.
 

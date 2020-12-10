@@ -15,7 +15,7 @@ From Empire to Garden is an exploration of state-to-state migration in the Unite
 
 It serves to speak lightly about the political implications of such shifts in the coming years due to levels of outmigration and inmigration from specific states. 
 
-![](/img/portfolio/florida2.png)
+![](https://willdebras.github.io/portfolio//img/portfolio/florida2.png)
 
 
 The full interactive was built in R shiny using wrappers for waypoint.js written by John Coene and leaflet. The final project is available here:

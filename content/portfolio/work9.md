@@ -10,6 +10,6 @@ weight: 0
 A visualisation showing all of the streets of Richmond, Virginia. The image is my current header on willdebras.github.io.
 <!--more-->
 
-![](/img/portfolio/richmond_annot.png)
+![](https://willdebras.github.io/portfolio/img/portfolio/richmond_annot.png)
 
 > This map created in R depicts the streets of Richmond. A framing and fade effect were applies in MS Powerpoint.
