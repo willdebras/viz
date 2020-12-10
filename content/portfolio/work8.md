@@ -7,11 +7,9 @@ title: Banner and Topline Software
 weight: 8
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
 
 This project in design and analysis features work from multiple NORC Venture Fund awards to build software to automate reporting at NORC of topline findings documents and banner tablatures.
-
+<!--more-->
 
 My colleagues and I were awarded two separate funding awards to produce tools for NORC to use to automate some reporting processes. I was the principal developer on both awards. On the former award, we created an R package to automate the reporting of topline findings documents. 
 
