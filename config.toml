@@ -49,7 +49,7 @@ googleAnalytics = ""
 
 
   [params.social]
-  email         = "wbonnell123@gmail.com"
+  email         = "mailto:wbonnell123@gmail.com"
   twitter       = "https://twitter.com/_willdebras"
   linkedin      = "https://www.linkedin.com/in/william-bonnell-85982b3a/"
-  github        = "github.com/willdebras"
+  github        = "https://github.com/willdebras"
