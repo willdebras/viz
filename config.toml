@@ -1,4 +1,4 @@
-baseurl = "willdebras.github.io/portfolio"
+baseurl = "willdebras.github.io/portfolio/"
 title = "Will Bonnell"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
