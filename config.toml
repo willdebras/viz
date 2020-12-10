@@ -43,7 +43,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Main page"
-  url = ""
+  url = "viz/"
   home = true
 
 
