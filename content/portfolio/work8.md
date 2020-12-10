@@ -17,15 +17,15 @@ My colleagues and I were awarded two separate funding awards to produce tools fo
 
  The output utilized the R package GT to create sleek toplines.
 
-![](https://willdebras.github.io/portfolio/img/portfolio/topline1.png)
+![](https://willdebras.github.io/viz/img/portfolio/topline1.png)
 
 It featured a number of innovations in automation, piping in attributes from labeling and formatting of data, n sizes, and survey weighted frequencies.
 
-![](https://willdebras.github.io/portfolio/img/portfolio/topliner_ex.png)
+![](https://willdebras.github.io/viz/img/portfolio/topliner_ex.png)
 
 The second award was to create a web application to assist in the production of banner tablatures. These sheets of tablatures display survey weighted frequencies cut across demographics with statistical tests to calculate statistical differences.
 
-![](https://willdebras.github.io/portfolio/img/portfolio/banner.png)
+![](https://willdebras.github.io/viz/img/portfolio/banner.png)
 
 
 Our work helps deliver topline findings documents and banner tablatures for dozens of projects, including partnerships with University of Chicago Harris and Divinity School, Hampton University, Data Foundation, SAP, the American Press Institute, and the NSF.

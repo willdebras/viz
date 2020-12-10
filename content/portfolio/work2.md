@@ -12,7 +12,7 @@ This infographic was created during my work at NORC as a client deliverable for 
 
 This one-pager infographic showcases work throughout a full project lifecycle in my job. I aided in collection of data through the development of a survey questionnaire with a client, to the analysis and report writing, and the development of a full infographic. The piece was created with a mix of tools. It features plots createed in R {ggplot2}, icons that were trimmed and edited in MS powerpoint, and a final deliverable pieced together and touched up in Adobe Illustrator. 
 
-![](https://willdebras.github.io/portfolio/img/portfolio/voc_ed.png)
+![](https://willdebras.github.io/viz/img/portfolio/voc_ed.png)
 
 ## Final deliverables
 
