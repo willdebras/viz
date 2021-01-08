@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Chicago Vision Zero dashboard</title>
-      <link>/viz/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>/viz/portfolio/work3/</guid>
-      <description>&lt;p&gt;A hackathon created dashboard to display traffic fatalities for the City of Chicago&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Spring Nights</title>
       <link>/viz/portfolio/work11/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
@@ -57,12 +48,12 @@
     </item>
     
     <item>
-      <title>Custom Shiny Tooltips</title>
-      <link>/viz/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <title>Chicago Vision Zero dashboard</title>
+      <link>/viz/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>/viz/portfolio/work7/</guid>
-      <description>&lt;p&gt;An exploration of pure CSS tooltips in R Shiny datatables for a recent web application created to optimize Daily Fantasy Sports lineups&lt;/p&gt;</description>
+      <guid>/viz/portfolio/work3/</guid>
+      <description>&lt;p&gt;A hackathon created dashboard to display traffic fatalities for the City of Chicago&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -72,6 +63,15 @@
       
       <guid>/viz/portfolio/work4/</guid>
       <description>&lt;p&gt;This visualisation was created for a Tidy Tuesday challenge of energy usage in Europe.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Custom Shiny Tooltips</title>
+      <link>/viz/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>/viz/portfolio/work7/</guid>
+      <description>&lt;p&gt;An exploration of pure CSS tooltips in R Shiny datatables for a recent web application created to optimize Daily Fantasy Sports lineups&lt;/p&gt;</description>
     </item>
     
     <item>
