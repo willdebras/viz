@@ -2,102 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will Bonnell</title>
-    <link>https://willdebras.github.io/viz/</link>
+    <link>/viz/</link>
     <description>Recent content on Will Bonnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
     
-	<atom:link href="https://willdebras.github.io/viz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/viz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vocational Education</title>
-      <link>https://willdebras.github.io/viz/portfolio/work2/</link>
+      <link>/viz/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work2/</guid>
+      <guid>/viz/portfolio/work2/</guid>
       <description>&lt;p&gt;This infographic was created during my work at NORC as a client deliverable for Harbor Freight Tools for Schools, featuring survey data from three surveys on vocational education in the United States amongst parents, students, and voters.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>From Empire to Garden</title>
-      <link>https://willdebras.github.io/viz/portfolio/work1/</link>
+      <link>/viz/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work1/</guid>
+      <guid>/viz/portfolio/work1/</guid>
       <description>&lt;p&gt;From Empire to Garden is an exploration of state-to-state migration in the United States in 2018. Using U.S. census data, this interactive piece of scrolly-telling data journalism explores major trends over the year in migration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Historical elevation renders</title>
-      <link>https://willdebras.github.io/viz/portfolio/work5/</link>
+      <link>/viz/portfolio/work5/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work5/</guid>
+      <guid>/viz/portfolio/work5/</guid>
       <description>&lt;p&gt;Series of maps rendered in 2020 using a combination of QGIS to georeference, elevation data and historical maps sourced online, and Rayrender in R to render the elevation data.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Chicago Vision Zero dashboard</title>
-      <link>https://willdebras.github.io/viz/portfolio/work3/</link>
+      <link>/viz/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work3/</guid>
+      <guid>/viz/portfolio/work3/</guid>
       <description>&lt;p&gt;A hackathon created dashboard to display traffic fatalities for the City of Chicago&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Spring Nights</title>
+      <link>/viz/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>/viz/portfolio/work11/</guid>
+      <description>&lt;p&gt;Spring Nights was an experiment in design, developed to creatively display a palette of colors to be used in another work. It&#39;s a sellf contained interactive website, allowing a user to click on elements of an eye shadow palette and read more about the color in question.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Green Energy in Europe</title>
-      <link>https://willdebras.github.io/viz/portfolio/work4/</link>
+      <link>/viz/portfolio/work4/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work4/</guid>
+      <guid>/viz/portfolio/work4/</guid>
       <description>&lt;p&gt;This visualisation was created for a Tidy Tuesday challenge of energy usage in Europe.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Custom Shiny Tooltips</title>
-      <link>https://willdebras.github.io/viz/portfolio/work7/</link>
+      <link>/viz/portfolio/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work7/</guid>
+      <guid>/viz/portfolio/work7/</guid>
       <description>&lt;p&gt;An exploration of pure CSS tooltips in R Shiny datatables for a recent web application created to optimize Daily Fantasy Sports lineups&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Banner and Topline Software</title>
-      <link>https://willdebras.github.io/viz/portfolio/work8/</link>
+      <link>/viz/portfolio/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work8/</guid>
+      <guid>/viz/portfolio/work8/</guid>
       <description>&lt;p&gt;This project in design and analysis features work from multiple NORC Venture Fund awards to build software to automate reporting at NORC of topline findings documents and banner tablatures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>UChicago Divinity School Visualisations</title>
-      <link>https://willdebras.github.io/viz/portfolio/work6/</link>
+      <link>/viz/portfolio/work6/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work6/</guid>
+      <guid>/viz/portfolio/work6/</guid>
       <description>&lt;p&gt;A pair of partner visualisations created for the UChicago Divinity School depicts the extent various religious (and non-religious) groups view threats to their own and others&amp;rsquo; religious freedoms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Apathy surrounding the Police Killing of George Floyd</title>
-      <link>https://willdebras.github.io/viz/portfolio/work10/</link>
+      <link>/viz/portfolio/work10/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work10/</guid>
+      <guid>/viz/portfolio/work10/</guid>
       <description>&lt;p&gt;This D3 created visualisation was created for the NSF funded Covid Response Tracking Study. It depicts the sentiment surrounding the police killing of George Floyd and its relationship to fear of riots and looting. This wave of the study in part analyzed how grief over the murder of Floyd compounded with general anxiety associated with the COVID-19 pandemic&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Streets of Richmond</title>
-      <link>https://willdebras.github.io/viz/portfolio/work9/</link>
+      <link>/viz/portfolio/work9/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work9/</guid>
+      <guid>/viz/portfolio/work9/</guid>
       <description>&lt;p&gt;A visualisation showing all of the streets of Richmond, Virginia. The image is my current header on willdebras.github.io.&lt;/p&gt;</description>
     </item>
     
