@@ -57,21 +57,21 @@
     </item>
     
     <item>
-      <title>Green Energy in Europe</title>
-      <link>/viz/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/viz/portfolio/work4/</guid>
-      <description>&lt;p&gt;This visualisation was created for a Tidy Tuesday challenge of energy usage in Europe.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Custom Shiny Tooltips</title>
       <link>/viz/portfolio/work7/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
       <guid>/viz/portfolio/work7/</guid>
       <description>&lt;p&gt;An exploration of pure CSS tooltips in R Shiny datatables for a recent web application created to optimize Daily Fantasy Sports lineups&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Green Energy in Europe</title>
+      <link>/viz/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/viz/portfolio/work4/</guid>
+      <description>&lt;p&gt;This visualisation was created for a Tidy Tuesday challenge of energy usage in Europe.&lt;/p&gt;</description>
     </item>
     
     <item>
