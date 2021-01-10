@@ -4,7 +4,7 @@ draft: false
 image: img/portfolio/visionzero.png
 showonlyimage: false
 title: Chicago Vision Zero dashboard
-weight: 5
+weight: 4
 ---
 
 A hackathon created dashboard to display traffic fatalities for the City of Chicago
