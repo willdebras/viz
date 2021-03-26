@@ -2,13 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Will Bonnell</title>
-    <link>/viz/categories/</link>
+    <link>https://willdebras.github.io/viz/categories/</link>
     <description>Recent content in Categories on Will Bonnell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/viz/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://willdebras.github.io/viz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
