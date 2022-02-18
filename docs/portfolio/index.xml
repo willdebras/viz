@@ -6,121 +6,125 @@
     <description>Recent content in Portfolios on Will Bonnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate><atom:link href="https://willdebras.github.io/viz/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
+    
+	<atom:link href="https://willdebras.github.io/viz/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Vocational Education</title>
-      <link>https://willdebras.github.io/viz/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>Formula Three</title>
+      <link>https://willdebras.github.io/viz/portfolio/formulathree/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work2/</guid>
-      <description>&lt;p&gt;This infographic was created during my work at NORC as a client deliverable for Harbor Freight Tools for Schools, featuring survey data from three surveys on vocational education in the United States amongst parents, students, and voters.&lt;/p&gt;</description>
+      <guid>https://willdebras.github.io/viz/portfolio/formulathree/</guid>
+      <description>&lt;p&gt;Formula Three is a scrollytelling website built with Three.js and GSAP ScrollTrigger.js to showcase the new 2022 features to the Formula One car.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>From Empire to Garden</title>
-      <link>https://willdebras.github.io/viz/portfolio/work1/</link>
+      <link>https://willdebras.github.io/viz/portfolio/empire/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work1/</guid>
+      <guid>https://willdebras.github.io/viz/portfolio/empire/</guid>
       <description>&lt;p&gt;From Empire to Garden is an exploration of state-to-state migration in the United States in 2018. Using U.S. census data, this interactive piece of scrolly-telling data journalism explores major trends over the year in migration.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>NBA Shotmaps Application</title>
+      <link>https://willdebras.github.io/viz/portfolio/nba/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://willdebras.github.io/viz/portfolio/nba/</guid>
+      <description>&lt;p&gt;This small web application was built to display positional shot data from NBA games from the 2021-2022 season. It cleanly combines the declarative nature of Svelte with the utility of D3 scales to plot a base court and overlay positional data with hover animations and tooltips. It features a zoomable, scaleable SVG viewer wrapper component, so a user can zoom in on the court and see every shot taken for any NBA game.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Population Council climate website</title>
+      <link>https://willdebras.github.io/viz/portfolio/percc/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://willdebras.github.io/viz/portfolio/percc/</guid>
+      <description>&lt;p&gt;Working with Ensemble Media, I was contracted to make various dashboards for the Population Council displaying an attractive UI to generate various data visualizations showcasing modeled estimates of population, urbanization, and migration under various climate scenarios.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Historical elevation renders</title>
-      <link>https://willdebras.github.io/viz/portfolio/work5/</link>
+      <link>https://willdebras.github.io/viz/portfolio/elevation/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work5/</guid>
+      <guid>https://willdebras.github.io/viz/portfolio/elevation/</guid>
       <description>&lt;p&gt;Series of maps rendered in 2020 using a combination of QGIS to georeference, elevation data and historical maps sourced online, and Rayrender in R to render the elevation data.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Chicago Vision Zero dashboard</title>
-      <link>https://willdebras.github.io/viz/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://willdebras.github.io/viz/portfolio/work3/</guid>
-      <description>&lt;p&gt;A hackathon created dashboard to display traffic fatalities for the City of Chicago&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>SHR STR</title>
-      <link>https://willdebras.github.io/viz/portfolio/work12/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://willdebras.github.io/viz/portfolio/work12/</guid>
-      <description>&lt;p&gt;SHR STR was built for a CalArts Visual Elements of User Interface Design course. &amp;ldquo;Shore Store&amp;rdquo; is a mocked mobile application to help Chicagoans find food near the Lake Shore. It was primarily designed in Figma.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Spring Nights</title>
-      <link>https://willdebras.github.io/viz/portfolio/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      
-      <guid>https://willdebras.github.io/viz/portfolio/work11/</guid>
-      <description>&lt;p&gt;Spring Nights was an experiment in design, developed to creatively display a palette of colors to be used in another work. It&amp;rsquo;s a self contained interactive website, allowing a user to click on elements of an eye shadow palette and read more about the color in question.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Wine Regions of France</title>
-      <link>https://willdebras.github.io/viz/portfolio/work13/</link>
+      <link>https://willdebras.github.io/viz/portfolio/wine/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work13/</guid>
+      <guid>https://willdebras.github.io/viz/portfolio/wine/</guid>
       <description>&lt;p&gt;This pixel map visualization portrays the departments in which the three most popular wine regions of France live.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Custom Shiny Tooltips</title>
-      <link>https://willdebras.github.io/viz/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <title>Cyber City</title>
+      <link>https://willdebras.github.io/viz/portfolio/cyber/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work7/</guid>
-      <description>&lt;p&gt;An exploration of pure CSS tooltips in R Shiny datatables for a recent web application created to optimize Daily Fantasy Sports lineups&lt;/p&gt;</description>
+      <guid>https://willdebras.github.io/viz/portfolio/cyber/</guid>
+      <description>&lt;p&gt;This website was one of the first simple scenes I built to practice Three.js after completing Bruno Simon&#39;s Three.js Journey course. This small scene of a cyberpunk-esque city was built and lit in Blender. The scene was UV unwrapped and the textures were processed and baked to be used in Three.js&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AARP social isolation mapping tool</title>
+      <link>https://willdebras.github.io/viz/portfolio/covidisolation/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://willdebras.github.io/viz/portfolio/covidisolation/</guid>
+      <description>&lt;p&gt;While working at NORC, I helped develop this interaction map was for the AARP Foundation&#39;s connect 2 affect program. The map was designed to help visualize social isolation and loneliness in older adults in the United States during the COVID-19 pandemic.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Banner and Topline Software</title>
-      <link>https://willdebras.github.io/viz/portfolio/work8/</link>
+      <link>https://willdebras.github.io/viz/portfolio/topliner/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work8/</guid>
+      <guid>https://willdebras.github.io/viz/portfolio/topliner/</guid>
       <description>&lt;p&gt;This project in design and analysis features work from multiple NORC Venture Fund awards to build software to automate reporting at NORC of topline findings documents and banner tablatures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>UChicago Divinity School Visualisations</title>
-      <link>https://willdebras.github.io/viz/portfolio/work6/</link>
+      <link>https://willdebras.github.io/viz/portfolio/divinity/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work6/</guid>
-      <description>&lt;p&gt;A pair of partner visualisations created for the UChicago Divinity School depicts the extent various religious (and non-religious) groups view threats to their own and others&#39; religious freedoms.&lt;/p&gt;</description>
+      <guid>https://willdebras.github.io/viz/portfolio/divinity/</guid>
+      <description>&lt;p&gt;A pair of partner visualisations created for the UChicago Divinity School depicts the extent various religious (and non-religious) groups view threats to their own and others&amp;rsquo; religious freedoms.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Green Energy in Europe</title>
-      <link>https://willdebras.github.io/viz/portfolio/work4/</link>
+      <link>https://willdebras.github.io/viz/portfolio/green/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work4/</guid>
+      <guid>https://willdebras.github.io/viz/portfolio/green/</guid>
       <description>&lt;p&gt;This visualisation was created for a Tidy Tuesday challenge of energy usage in Europe.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Apathy surrounding the Police Killing of George Floyd</title>
-      <link>https://willdebras.github.io/viz/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <title>Chicago Vision Zero dashboard</title>
+      <link>https://willdebras.github.io/viz/portfolio/visionzero/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work10/</guid>
-      <description>&lt;p&gt;This D3 created visualisation was created for the NSF funded Covid Response Tracking Study. It depicts the sentiment surrounding the police killing of George Floyd and its relationship to fear of riots and looting. This wave of the study in part analyzed how grief over the murder of Floyd compounded with general anxiety associated with the COVID-19 pandemic&lt;/p&gt;</description>
+      <guid>https://willdebras.github.io/viz/portfolio/visionzero/</guid>
+      <description>&lt;p&gt;A hackathon created dashboard to display traffic fatalities for the City of Chicago&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Streets of Richmond</title>
-      <link>https://willdebras.github.io/viz/portfolio/work9/</link>
+      <link>https://willdebras.github.io/viz/portfolio/richmond/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>https://willdebras.github.io/viz/portfolio/work9/</guid>
+      <guid>https://willdebras.github.io/viz/portfolio/richmond/</guid>
       <description>&lt;p&gt;A visualisation showing all of the streets of Richmond, Virginia. The image is my current header on willdebras.github.io.&lt;/p&gt;</description>
     </item>
     
