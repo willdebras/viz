@@ -15,7 +15,7 @@ googleAnalytics = ""
   description = "Will Bonnell's dataviz portfolio"
   copyright = "&copy;2020 William Bonnell"
   sidebarAbout = [
-    "Data Analyst at NORC at the University of Chicago<br>Enthusiastic about dataviz, design, and cartography"
+    "Hi, I'm a Fullstack R Shiny, D3, and Three.js developer. I currently work at Oliver Wyman Actuarial where I build and support production dashboards and visualizations for dozens of clients and previously worked at NORC at the University of Chicago where I built dashboards for clients like AARP, the MCBS, and the Lumina Foundation. <br><br> I also do freelance viz development and have recently worked on projects for Microsoft Research and the Population Council."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -42,13 +42,17 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Main page"
+  name = "Home"
   url = "https://willdebras.github.io/"
   home = false
   [[params.navlinks]]
   name = "Viz"
   url = "portfolio/"
   home = true
+  [[params.navlinks]]
+  name = "A preview of my new portfolio built in Svelte"
+  url = "https://svelteviz.vercel.app/"
+  home = false
 
 
 
